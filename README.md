@@ -1,6 +1,7 @@
 # Zephyr
 Projet de capteur de CO2 qui a été primé aux Olympiades de Sciences de l'Ingénieur 2021
-[Image1](https://user-images.githubusercontent.com/86407632/123242385-462d3f80-d4e2-11eb-91f5-83ebac73b9cf.png)
+
+![Image1](https://user-images.githubusercontent.com/86407632/123242385-462d3f80-d4e2-11eb-91f5-83ebac73b9cf.png)
 
 Voici l'implantation des différents composants :
 
@@ -10,3 +11,6 @@ Le capteur choisi au final est le CO2 Grove de chez GOtronic : https://www.gotro
 
 Les pièces sont disponibles au format STL!
 Il faut imprimer les 4 articulations.
+
+Si vous voulez en savoir plus, voici la présentation faite lors de la finale des Olympiades : 
+https://youtu.be/IQtPWZz7KpU

@@ -10,10 +10,12 @@ Voici l'implantation des différents composants :
 Le capteur choisi au final est le CO2 Grove de chez GOtronic : https://www.gotronic.fr/art-capteur-de-co2-grove-101020067-23839.htm
 
 Les pièces sont disponibles au format STL!
+
 Il faut imprimer les 4 articulations.
 
 Si vous voulez en savoir plus, voici la présentation faite lors de la finale des Olympiades : 
 https://youtu.be/IQtPWZz7KpU
+
 Celle-ci est aussi disponible en pdf dans les documents associés.
 
 Voici également une vidéo du projet réel : 

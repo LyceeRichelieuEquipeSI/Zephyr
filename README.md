@@ -14,3 +14,8 @@ Il faut imprimer les 4 articulations.
 
 Si vous voulez en savoir plus, voici la présentation faite lors de la finale des Olympiades : 
 https://youtu.be/IQtPWZz7KpU
+Celle-ci est aussi disponible en pdf dans les documents associés.
+
+Voici également une vidéo du projet réel : 
+https://www.youtube.com/watch?v=lbtuWfUY2Ug
+
